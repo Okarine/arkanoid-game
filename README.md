@@ -1,9 +1,9 @@
 # MAKE-YOUR-GAME
 
-![Build Status](https://img.shields.io/badge/Project-In%Progress-orange)  ![Project Version](https://img.shields.io/badge/Version-1.0-blue) ![Tests](https://img.shields.io/badge/Tests-Passed-green)
+![Build Status](https://img.shields.io/badge/Project-In%20Progress-orange) ![Project Version](https://img.shields.io/badge/Version-1.0-blue) ![Tests](https://img.shields.io/badge/Tests-Passed-green)
 
 <p align="center">
-  <img src="bomberman.png" alt="Image" />
+  <img src="arkanoid.jpg" alt="Image" />
 </p>
 
 **Make your game** my single project also done during my studies at kood/Jõhvi The game is a classic version of the Arkanoid game, which is implemented in pure JavaScript and using canvas technology. The goal of the game is to destroy all the blocks with the ball without losing the maximum number of lives.

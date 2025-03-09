@@ -1,0 +1,43 @@
+h3, span {
+    color: red;
+}
+
+h3, h4, p {
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+}
+
+.pause-play, .info-box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: transparent;
+    padding: o;
+}
+
+.info {
+    max-width: 350px;
+    border: 2px solid;
+    padding: 5px;
+    background-color: whitesmoke;
+}
+
+.pause-play img {
+    width: 30px;
+    height: 30px;
+}
